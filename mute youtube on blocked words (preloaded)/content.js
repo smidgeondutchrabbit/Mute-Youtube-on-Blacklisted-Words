@@ -1,5 +1,5 @@
 // List of words to mute
-const mutedWords = ["cheese", "cheesy", "cheeses", "cheeseburger", "cheesesteak", "cheesecake", "cheesestick"];
+const mutedWords = ["word1" "word2" "word3"];
 
 // Select the video element and captions
 let videoElement;
