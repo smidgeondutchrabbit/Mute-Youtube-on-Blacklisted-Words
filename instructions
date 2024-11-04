@@ -1,0 +1,5 @@
+1. download the manifest.js and content.js file
+in the content.js code, replace example, word1, and word2 with the words you want to blacklist
+place manifest.js and content.js into a folder
+chrome browser - go to chrome://extensions/
+open the folder
