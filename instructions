@@ -1,8 +1,8 @@
-1. download the manifest.js and content.js file
-in the content.js code, replace example, word1, and word2 with the words you want to blacklist
-place manifest.json and content.js into a folder
-chrome browser - go to chrome://extensions/
-enable developer mode
+download the folders
+go to chrome://extensions/
+download the directories to mute youtube on blocked words and youtube livestream word mute
+open the content.js container and replace word1, word2 and word3 with the word you want to blacklist
+in chrome://extensions/, enable developer mode
 click load unpacked
-open the folder
-the extension should work
+open mute youtube on blocked words and youtube livestream word mute
+if something doesnt work properly, write it in the comments.
