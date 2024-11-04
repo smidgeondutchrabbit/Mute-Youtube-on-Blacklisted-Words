@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Livestream Word Mute",
+  "version": "1.0",
+  "description": "Mute specific words in YouTube live stream captions.",
+  "permissions": ["scripting", "tabs"],
+  "host_permissions": ["*://www.youtube.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
